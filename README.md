@@ -9,3 +9,4 @@ All nodes are assumed all are connected.
 1. Changes required : Path class & Permutation class are almost duplicates. Merge them.
 2. All permutations must be either processed or avoided by prefixes.
 3. Improve time required.
+4. Document the code well.
