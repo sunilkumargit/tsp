@@ -10,3 +10,4 @@ All nodes are assumed all are connected.
 2. All permutations must be either processed or avoided by prefixes.
 3. Improve time required.
 4. Document the code well.
+5. Conversion to optimization problem in scratch stage, need much more work.
